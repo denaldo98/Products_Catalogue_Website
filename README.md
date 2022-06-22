@@ -1,11 +1,13 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# Design and implementation of a Web Application to manage a catalogue of products
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Project realized for the course *Web Technologies* at *Università Politecnica delle Marche*. 
+ 
+ - Development of a Web Application with the *Laravel* PHP framework. 
+ - The application manages a catalogue of products, i.e. it represents an e-commerce.
+ - Several categories of users can access the website, with different functionalities
+ 
+ 
+ All the details of the development (incluing mockups, organization chart, database design) are shown in the provided [report](https://github.com/denaldo98/ProgettoTWeb/blob/main/RelazioneTWeb.pdf) file.
 
 ## About Laravel
 
